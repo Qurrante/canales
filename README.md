@@ -43,89 +43,89 @@ c47f756750190e4b2a9eefe8afdac48a2203b8d6
 #EXTINF:-12 , M. Deportes 4 720
 a88195215f9b6e38bf6363d28bfe84000a12d46a
 
-#EXTINF:-12 , M. Deportes 5 720 update
+#EXTINF:-13 , M. Deportes 5 720 update
 5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
 
-#EXTINF:-12 , M. Liga de Campeones 1080 (Update)
+#EXTINF:-14 , M. Liga de Campeones 1080 (Update)
 aedf221240a0f8513d90b555bf1b6e5306ac1e76
 
-#EXTINF:-12 , M. Liga de Campeones 720 (Update)
+#EXTINF:-15 , M. Liga de Campeones 720 (Update)
 f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
 
-#EXTINF:-12 , M. Liga de Campeones 1 1080 (Update)
+#EXTINF:-16 , M. Liga de Campeones 1 1080 (Update)
 9b76d0739f87555ccd3f42fc8e548762a0b94c28
 
-#EXTINF:-12 , M. Liga de Campeones 1  720
+#EXTINF:-17 , M. Liga de Campeones 1  720
 f8d89bf80b813631e6eb85fc8c185b00fe9ab88d
 
-#EXTINF:-12 , M. Liga de Campeones 2 1080
+#EXTINF:-18 , M. Liga de Campeones 2 1080
 612eed86f1ec250ebff3649e74e6729687c456f7
 
-#EXTINF:-12 , M. Liga de Campeones 3 1080
+#EXTINF:-19 , M. Liga de Campeones 3 1080
 a5d22610cb7bd5608c14249e3984bacb54dfe487
 
-#EXTINF:-12 , M. Golf 1080 update
+#EXTINF:-20 , M. Golf 1080 update
 4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
-#EXTINF:-12 , DAZN 1 1080  (Update)
+#EXTINF:-21 , DAZN 1 1080  (Update)
 ad7973215880d12940a75699aa7044839a13a6f1
 
-#EXTINF:-12 , DAZN 2 1080 update
+#EXTINF:-22 , DAZN 2 1080 update
 b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3
 
-#EXTINF:-12 , DAZN 2 720 update
+#EXTINF:-23 , DAZN 2 720 update
 201b498f3c8d5366394ba4c0f0c4756131a4899a
 
-#EXTINF:-12 , DAZN 3  1080 (Update)
+#EXTINF:-24 , DAZN 3  1080 (Update)
 bfbcda5a0999256360ce560caf2a6473aafc3f11
 
-#EXTINF:-12 , DAZN 4 1080 update
+#EXTINF:-25 , DAZN 4 1080 update
 3634ae8e7443f637222e0255f0fc70bf3f050e64
 
-#EXTINF:-12 , F1 1080
+#EXTINF:-26 , F1 1080
 c372020ed2744033f56548b6beb11a9f3e740f37
 
-#EXTINF:-12 , F1 720
+#EXTINF:-27 , F1 720
 3f1c74da240b0933efaa572c0bdc24a7406ca7bf
 
-#EXTINF:-12 , dazn F1 SD
+#EXTINF:-28 , dazn F1 SD
 4a03e14ec4e40afce24781e7c54ba9e3575dfe0a
 
-#EXTINF:-12 , GOL TV 1080
+#EXTINF:-29 , GOL TV 1080
 49c35606668ebf7a895434ec4c9243a163d87718
 
-#EXTINF:-12 , EuroSport 1 1080
+#EXTINF:-30 , EuroSport 1 1080
 36930ae99889bb571389e5eb5557e3d8ab2b1fda
 
-#EXTINF:-12 , EUROSPORT  2 1080 (Update)
+#EXTINF:-31 , EUROSPORT  2 1080 (Update)
 f2c46015fab59944d1f75487fe1ec725f9d74720
 
-#EXTINF:-12 , SPORTV 1 update 
+#EXTINF:-32 , SPORTV 1 update 
 3092996191aa30c04085bc5b0dec198dcfc11d6f
 
-#EXTINF:-12 , SPORTV 2 update
+#EXTINF:-33 , SPORTV 2 update
 b402a5fc3d93860c7f4a9c46463ff5469b6436f6
 
-#EXTINF:-12 , SPORTV 3 update
+#EXTINF:-34 , SPORTV 3 update
 4d78fadc6701008fb528202d9671e1d0f2acd486
 
-#EXTINF:-12 , ESPN 2 1080
+#EXTINF:-35 , ESPN 2 1080
 5ae9afd963961cd07e8f690e44a6596a2bb4e51e
 
-#EXTINF:-12 , BEIN SPAÑOL
+#EXTINF:-36 , BEIN SPAÑOL
 5da88bd42cd50b54570cd61fbae8749d9d886722
 
-#EXTINF:-12 , Barsatv
+#EXTINF:-37 , Barsatv
 6f292be252c8a3288de090a1243a8ab03f1e5288
 
-#EXTINF:-12 , CUATRO 1080
+#EXTINF:-38 , CUATRO 1080
 0746c5511701c3db76c433f684c44549debad44f
 
-#EXTINF:-12 , TELEDEPORTE 1080 update
+#EXTINF:-39 , TELEDEPORTE 1080 update
 a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 
-#EXTINF:-12 , Evento del Momento 
+#EXTINF:-40 , Evento del Momento 
 78348f6597d974376b2e6d85993bb0e71cb27af7
 
-#EXTINF:-12 , Evento del Momento 2 
+#EXTINF:-41 , Evento del Momento 2 
 50b32fc0d7db4297f32914c7dc807493d0581ca6
